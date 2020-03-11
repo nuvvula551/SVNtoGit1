@@ -7,3 +7,4 @@ Dev2 on Dec 4th
 A bad change
 made a change in trunk
 Last commit for development
+IT-501 integration bug is fixed
