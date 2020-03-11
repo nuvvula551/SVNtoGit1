@@ -1,0 +1,9 @@
+Making my first change in file
+Change on the second day
+Dev1 joined today
+Dev2 joined today
+Dev1 makes changes
+Dev2 on Dec 4th
+A bad change
+made a change in trunk
+Last commit for development
