@@ -1,9 +1,0 @@
-Making of first change in the file
-Change on second day
-Dev1 joined today
-Dev2 joined the project
-Dev1 makes the changes
-Dev2 on 4th Dec
-A bad change
-made a change in trunk
-Last commit for development
